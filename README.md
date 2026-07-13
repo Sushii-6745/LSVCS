@@ -108,7 +108,6 @@ README
     └── commit_graph.png
 ```
 
-Then include:
 
 
 ![Commit Graph](assets/commit_graph.png)
