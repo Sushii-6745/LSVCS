@@ -110,7 +110,7 @@ README
 
 Then include:
 
-```markdown
+
 ![Commit Graph](assets/commit_graph.png)
 ```
 
